@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-12-31 20:59:26 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2018-12-27 17:16:15 -0700"
@@ -413,13 +419,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-25 11:42:58 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-25 11:42:58 -0700"
     },
@@ -519,6 +525,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2018-12-25 11:41:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2018-12-31 20:56:23 -0700"
     },
     "done": true
   },
@@ -786,13 +798,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-12-31 13:44:39 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-12-31 13:44:39 -0700"
     },
@@ -1011,6 +1023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2018-12-31 20:56:23 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-12-25 12:49:10 -0700"
@@ -1206,6 +1224,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-27 00:30:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2018-12-31 20:59:26 -0700"
     },
     "done": true
   },
@@ -1428,15 +1452,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-12-25 12:20:35 -0700",
-      "minecraft:mountains": "2018-12-25 11:36:34 -0700",
       "minecraft:forest": "2018-12-27 00:45:47 -0700",
+      "minecraft:mountains": "2018-12-25 11:36:34 -0700",
       "minecraft:deep_frozen_ocean": "2018-12-27 00:40:13 -0700",
+      "minecraft:birch_forest": "2018-12-31 20:55:51 -0700",
       "minecraft:beach": "2018-12-27 16:36:14 -0700",
       "minecraft:dark_forest": "2018-12-25 11:31:13 -0700",
       "minecraft:river": "2018-12-25 11:31:10 -0700",
       "minecraft:wooded_mountains": "2018-12-25 12:25:27 -0700",
       "minecraft:wooded_hills": "2018-12-27 00:46:10 -0700",
       "minecraft:stone_shore": "2018-12-25 12:15:34 -0700",
+      "minecraft:swamp": "2018-12-31 20:54:46 -0700",
       "minecraft:plains": "2018-12-25 11:17:10 -0700"
     },
     "done": false
@@ -1450,6 +1476,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-12-25 12:04:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2018-12-31 20:59:12 -0700"
     },
     "done": true
   },
