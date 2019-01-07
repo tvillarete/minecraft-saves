@@ -626,6 +626,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2018-12-26 23:14:12 -0800",
+      "minecraft:chicken": "2019-01-06 22:39:26 -0800",
       "minecraft:sheep": "2018-12-25 11:09:29 -0800"
     },
     "done": false
@@ -789,6 +790,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2018-12-25 10:41:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-01-06 22:48:09 -0800"
     },
     "done": true
   },
